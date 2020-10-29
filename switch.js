@@ -17,6 +17,6 @@ switch(kendaraan){
       alert('transportasi udara')
       break;
       default:
-      alert('kendaraan tidak dikenal')
+            alert('kendaraan tidak dikenal')
       break;
 }
