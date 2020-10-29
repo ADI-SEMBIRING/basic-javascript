@@ -16,6 +16,7 @@ switch(kendaraan){
       case 'helikopter':
       alert('transportasi udara')
       break;
-      default:('kendaraan tidak dikenal')
+      default:
+      alert('kendaraan tidak dikenal')
       break;
 }
